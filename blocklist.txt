@@ -4,11 +4,7 @@
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
-!
-! Source name: AdAway Default Blocklist
-! Source: https://adaway.org/hosts.txt
-!
 
 # [reelfren.com]
-127.0.0.1 dd133.com
-127.0.0.1 otieu.com
+||dd133.com^
+||otieu.com^
