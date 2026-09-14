@@ -9,6 +9,6 @@
 ! Source: https://adaway.org/hosts.txt
 !
 
-# [163.com]
+# [reelfren.com]
 127.0.0.1 dd133.com
 127.0.0.1 otieu.com
